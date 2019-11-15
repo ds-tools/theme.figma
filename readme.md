@@ -3,7 +3,7 @@
   <br><br>
   <b>Get system-ui themes tokens from figma variables (local styles)</b>
   <br><br>
-
+  <img src="https://img.shields.io/badge/maturity-proof--of--concept-d85151?style=flat-square"/>
 </p>
 
 &nbsp;
