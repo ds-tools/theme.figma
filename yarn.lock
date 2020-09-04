@@ -86,10 +86,10 @@ rgb-hex@^3.0.0:
   resolved "https://registry.yarnpkg.com/rgb-hex/-/rgb-hex-3.0.0.tgz#eab0168cc1279563b18a14605315389142e2e487"
   integrity sha512-8h7ZcwxCBDKvchSWbWngJuSCqJGQ6nDuLLg+QcRyQDbX9jMWt+PpPeXAhSla0GOooEomk3lCprUpGkMdsLjKyg==
 
-yargs-parser@^16.0.0:
-  version "16.1.0"
-  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-16.1.0.tgz#73747d53ae187e7b8dbe333f95714c76ea00ecf1"
-  integrity sha512-H/V41UNZQPkUMIT5h5hiwg4QKIY1RPvoBV4XcjUbRM8Bk2oKqqyZ0DIEbTFZB0XjbtSPG8SAa/0DxCQmiRgzKg==
+yargs-parser@^18.1.2:
+  version "18.1.2"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-18.1.2.tgz#2f482bea2136dbde0861683abea7756d30b504f1"
+  integrity sha512-hlIPNR3IzC1YuL1c2UwwDKpXlNFBqD1Fswwh1khz5+d8Cq/8yc/Mn0i+rQXduu8hcrFKvO7Eryk+09NecTQAAQ==
   dependencies:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
