@@ -40,7 +40,9 @@ input:
 
 A figma file that follows the [system-ui spec](https://system-ui.com/theme) naming convention
 
-[Example](https://www.figma.com/file/cNjsABO9tkKDt6EXxzEtGw6R/Design-Tokens?node-id=0%3A1)
+[Open example file in Figma ↗](https://www.figma.com/file/cNjsABO9tkKDt6EXxzEtGw6R/Design-Tokens?node-id=0%3A1)
+
+![figma screenshot](/examples/figma-screenshot.png)
 
 output:
 
