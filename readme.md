@@ -36,7 +36,7 @@ FIGMA_TOKEN:44444-6666cccc-cccc-cccc-cccc-1111cccccccc
 
 &nbsp;
 
-input:
+#### input:
 
 A figma file that follows the [system-ui spec](https://system-ui.com/theme) naming convention
 
@@ -44,7 +44,9 @@ A figma file that follows the [system-ui spec](https://system-ui.com/theme) nami
 
 [![figma screenshot](/examples/figma-screenshot.png)](https://www.figma.com/file/cNjsABO9tkKDt6EXxzEtGw6R/Design-Tokens?node-id=0%3A1)
 
-output:
+&nbsp;
+
+#### output:
 
 ```js
 /* theme.js */
